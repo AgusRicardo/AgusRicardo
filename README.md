@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Frontend Developer Jr/Trainee 🚀
+Frontend Developer Jr 🚀
 <hr/>
 
 <h2>Languages and Tools</h2>
