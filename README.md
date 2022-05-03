@@ -12,6 +12,7 @@ Frontend Developer Jr 🚀
 <img height="32" width="32" src="https://user-images.githubusercontent.com/72091118/114448060-76cf2f80-9ba9-11eb-889e-6bac124c18f0.png" />
 <img height="32" width="32" src="https://user-images.githubusercontent.com/72091118/114448079-7cc51080-9ba9-11eb-99f5-29946cd66e63.png" />
 <img height="32" width="32" src="https://symbols.getvecta.com/stencil_25/40_jest.5fde12ec22.png" />
+<img height="32" width="32" src="http://assets.stickpng.com/images/58481791cef1014c0b5e4994.png" />
 </div>
 
 <hr/>
