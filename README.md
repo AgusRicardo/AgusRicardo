@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Frontend Developer Jr 🚀
+Full-Stack Developer Jr 🚀
 <hr/>
 
 <h2>Languages and Tools</h2>
