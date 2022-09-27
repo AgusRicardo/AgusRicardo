@@ -17,7 +17,7 @@ Full-Stack Developer Jr 🚀
 <img height="32" width="52" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" />
 <img height="32" width="52" src="https://1000marcas.net/wp-content/uploads/2020/11/MySQL-logo.png" />
 <img height="32" width="52" src="https://www.pngmart.com/files/7/SQL-Server-PNG-Photos.png" />
-<img height="32" width="52" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" />
+<img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" />
 </div>
 
 <hr/>
