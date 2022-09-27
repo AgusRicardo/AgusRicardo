@@ -16,6 +16,7 @@ Full-Stack Developer Jr 🚀
 <img height="28" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" />
 <img height="32" width="52" src="https://1000marcas.net/wp-content/uploads/2020/11/MySQL-logo.png" />
 <img height="32" width="52" src="https://www.pngmart.com/files/7/SQL-Server-PNG-Photos.png" />
+<img height="32" width="52" src="https://1000marcas.net/wp-content/uploads/2021/06/PostgreSQL-Logo.png" />
 </div>
 
 <hr/>
